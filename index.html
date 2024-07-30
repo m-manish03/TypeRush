@@ -44,5 +44,23 @@
 
   <script src="js/paragraphs.js"></script>
   <script src="js/script.js"></script>
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.4/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.12.4/firebase-analytics.js";
+    
+    const firebaseConfig = {
+      apiKey: "AIzaSyC5V1YhoPwVpTpSCG8xaFc3EMKkw4-yyl0",
+      authDomain: "typerush-38534.firebaseapp.com",
+      projectId: "typerush-38534",
+      storageBucket: "typerush-38534.appspot.com",
+      messagingSenderId: "309876678724",
+      appId: "1:309876678724:web:a2206ddd30fe7eb5c95c11",
+      measurementId: "G-H12BL5EJ8N"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+</script>
 </body>
 </html>
