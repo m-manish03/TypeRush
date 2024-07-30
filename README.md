@@ -35,8 +35,8 @@ TypeRush offers a straightforward and effective way to practice and enhance your
    "cd typeRush"
 3. Open index.html in your preferred web browser to start using TypeRush.
 
-"Contributing"
+Contributing
 Feel free to submit issues or pull requests. Your contributions are welcome!
 
-"License"
+License
 This project is licensed under the MIT License. See the LICENSE file for details.
