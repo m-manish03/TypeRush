@@ -31,3 +31,12 @@ TypeRush offers a straightforward and effective way to practice and enhance your
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/typerush.git
+2. Navigate to the project directory:
+   "cd typeRush"
+3. Open index.html in your preferred web browser to start using TypeRush.
+
+"Contributing"
+Feel free to submit issues or pull requests. Your contributions are welcome!
+
+"License"
+This project is licensed under the MIT License. See the LICENSE file for details.
