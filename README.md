@@ -39,4 +39,4 @@ Contributing
 Feel free to submit issues or pull requests. Your contributions are welcome!
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/m-manish03/TypeRush/blob/main/LICENSE) file for details.
