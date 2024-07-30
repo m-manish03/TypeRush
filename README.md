@@ -2,6 +2,12 @@
 
 **TypeRush** is a web-based typing speed test designed to enhance typing skills and measure typing efficiency. The application provides an engaging interface where users can test their typing speed and accuracy by typing out randomly selected paragraphs. It is a fun and effective way to improve your typing skills while tracking your performance in realtime.
 
+## Live Demo
+
+You can try out the live demo of TypeRush at the following link:
+
+- [TypeRush Live Demo](https://typerush-manish.web.app/)
+
 ## Key Features
 
 - **Random Paragraphs:** The application presents a variety of paragraphs to type, ensuring each test is unique and challenging.
